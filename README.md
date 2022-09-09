@@ -42,3 +42,5 @@ Microsoft Office and Word are registered trademarks of Microsoft Corporation.
 DocxFactory only includes third party components that have a permissive free license.
 
 Please see the [third party / licenses acknowledgement.](https://github.com/DocxFactory/DocxFactory/blob/master/LICENSE-3RD-PARTY.md)
+
+Tutorial：https://web.archive.org/web/20170730103914/http://docxfactory.com:80/free-download/
